@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/thesummershop/static/css/main.3735103e.css",
+    "main.js": "/thesummershop/static/js/main.1c8d819a.js",
+    "static/js/787.30d00489.chunk.js": "/thesummershop/static/js/787.30d00489.chunk.js",
+    "static/media/summershop-removebg-preview.png": "/thesummershop/static/media/summershop-removebg-preview.fbc7d4f47030aa1f4815.png",
+    "static/media/shopping-bag.png": "/thesummershop/static/media/shopping-bag.8e3433c1f346fa7279b8.png",
+    "static/media/logo.svg": "/thesummershop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thesummershop/index.html",
+    "main.3735103e.css.map": "/thesummershop/static/css/main.3735103e.css.map",
+    "main.1c8d819a.js.map": "/thesummershop/static/js/main.1c8d819a.js.map",
+    "787.30d00489.chunk.js.map": "/thesummershop/static/js/787.30d00489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3735103e.css",
+    "static/js/main.1c8d819a.js"
+  ]
+}
